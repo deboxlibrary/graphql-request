@@ -1,5 +1,5 @@
 {
-  "name": "graphql-request",
+  "name": "@deboxsoft/graphql-request",
   "version": "0.0.0-semantic-release",
   "main": "dist/src/index.js",
   "typings": "./dist/src/index.d.ts",
