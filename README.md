@@ -1,3 +1,6 @@
+# Fork From
+prisma-labs/graphql-request
+
 # graphql-request
 
 [![CircleCI](https://circleci.com/gh/prisma/graphql-request.svg?style=shield)](https://circleci.com/gh/prisma/graphql-request) [![npm version](https://badge.fury.io/js/graphql-request.svg)](https://badge.fury.io/js/graphql-request)
